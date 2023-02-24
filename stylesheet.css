@@ -2,8 +2,14 @@
     background: black;
 }
 h1 {
-    color:rgb(106, 106, 106);
+    color:rgb(26, 24, 22)
 }
 .p {
-    color: rgb(198, 58, 58);
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    outline-color: black;
+    outline-style: auto;
+    outline-width: 5px;
+    color:white;
+    background-color: rgb(11, 13, 16);
 }
